@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)](https://thiyagu93.io)
 <h1 align="center">Hi 👋, I'm Thiyagu </h1> 
-<h3 align="center">A Passionate Front-end Developer | Crafting beautiful and interactive web experiences</h3>
+<h3 align="center">A Passionate Full-Stack Developer | Crafting beautiful and interactive web experiences</h3>
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/0*yBvA5CnEX3Sd4aod.gif" >
 
 - 🌱 I’m currently learning **Flutter, DSA, Python**
