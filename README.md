@@ -44,10 +44,10 @@
 
 <div style="display: flex; flex-direction: column;">
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiyagu93&show_icons=true&locale=en&layout=compact" alt="thiyagu93" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiyaguRJ&show_icons=true&locale=en&layout=compact" alt="thiyagu93" />
   </p>
   <p>
-  <img src="https://profile-counter.glitch.me/{ThiyaguRJ}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/ThiyaguRJ/count.svg" alt="Visitor Count">
   </p>
 </div>
 
