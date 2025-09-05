@@ -46,9 +46,9 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiyaguRJ&show_icons=true&locale=en&layout=compact" alt="thiyagu93" />
   </p>
-  <p>
+<!--   <p>
   <img src="https://profile-counter.glitch.me/ThiyaguRJ/count.svg" alt="Visitor Count">
-  </p>
+  </p> -->
 </div>
 
 
